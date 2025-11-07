@@ -1,0 +1,35 @@
+# Portfolio Jacka Przybylaka
+site_name: Portfolio - Jacek Przybylak
+site_author: Jacek Przybylak
+site_description: >-
+    Portfolio moich wspaniałych projektów z Data Science i AI!
+
+theme:
+  logo: logo.png
+  name: material
+  palette:
+    scheme: "default"
+    primary: blue
+    accent: "cyan"
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/tooltips.js
+
+nav:
+- Strona Domowa: index.md
+- Projekty z kursu:
+  - "Asystent językowy": projekty\asystent_jezykowy\index.md
+  - "Predyktor": projekty\predyktor\index.md
+  - "Twój czat GPT": projekty\naszgpt\index.md
+  - "Audio Notatki": projekty\notatki_audio\index.md
+  - "Klastrowanie": projekty\wyszukiwanie_znajomych\index.md
+  - "EDA Irysów": projekty\eda_irysow\index.md
+- Obecne projekty:
+  - "Career Guide": obecne\career_guide\index.md
+  - "Insightly": obecne\insightly\index.md
+- Po godzinach:
+  - "Snake": po_godzinach\snake\index.md
+  - "Wyświetlacz WiFi": po_godzinach\wyswietlacz\index.md
