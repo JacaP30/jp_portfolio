@@ -2,13 +2,13 @@
 Aplikacja opiera swoje działanie na modelu regresyjnym do przewidywania prawdopodobnego czasu ukończenia Półmaratonu Wrocławskiego, wytrenowanym na bazie danych z roku 2023 i 2024, umieszczonych na Digital Ocean. LLM wyłuskuje z opisu potrzebne informacje do predykcji a jego metryki zapisywane są do bazy Langfuse. 
 
 
-*<span style="color: navy; font-weight: bold;">Klinięcie obrazu otworzy aplikację wykonaną w Streamlit</span>*
+*<span style="color: navy; font-weight: bold;">Kliknięcie obrazu otworzy aplikację wykonaną w Streamlit</span>*
 
 <a href="https://predyktor-czasu-pulmaratonu.streamlit.app//" target="_blank" rel="noopener noreferrer">
     <img src="foto/foto1.png" alt=" zrzut">
 </a>
 
-**<span style="color: navy; font-weight: bold;">Klinięcie obrazu otworzy aplikację wykonaną w React</span>**    
+**<span style="color: navy; font-weight: bold;">Kliknięcie obrazu otworzy aplikację wykonaną w React</span>**    
   
 <a href="https://predyktor.netlify.app//" target="_blank" rel="noopener noreferrer">
     <img src="foto/foto2.png" alt=" zrzut">

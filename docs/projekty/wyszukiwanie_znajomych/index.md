@@ -2,7 +2,7 @@
 Aplikacja używa modelu klastrowania do znalezienia "bratniej duszy" wśród uczestników kursu.    
 
 
-*<span style="color: navy; font-weight: bold;">Klinięcie obrazu otworzy aplikację</span>*
+*<span style="color: navy; font-weight: bold;">Kliknięcie obrazu otworzy aplikację</span>*
 
 <a href="https://zaddomwdrozeniejp.streamlit.app/" target="_blank" rel="noopener noreferrer">
     <img src="foto/foto1.png" alt=" zrzut">

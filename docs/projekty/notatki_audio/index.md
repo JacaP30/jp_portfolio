@@ -3,7 +3,7 @@ Audio Notatki to lekka aplikacja webowa opierająca swoje działanie na modelu A
  
 
 
-*<span style="color: navy; font-weight: bold;">Klinięcie obrazu otworzy aplikację wykonaną w Streamlit</span>*
+*<span style="color: navy; font-weight: bold;">Kliknięcie obrazu otworzy aplikację wykonaną w Streamlit</span>*
 
 <a href="https://notatkiaudiojp.streamlit.app/" target="_blank" rel="noopener noreferrer">
     <img src="foto/foto.png" alt=" zrzut">

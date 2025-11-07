@@ -2,7 +2,7 @@
 Aplikacja wspiera naukę języków obcych. Do działania wykorzystuje nowoczesny stack technologiczny z naciskiem na integrację z OpenAI API, zapewniając zaawansowane funkcje edukacyjne przy zachowaniu prostoty interfejsu użytkownika.
 
 
-*<span style="color: navy; font-weight: bold;">Klinięcie obrazu otworzy aplikację wykonaną w Streamlit</span>*
+*<span style="color: navy; font-weight: bold;">Kliknięcie obrazu otworzy aplikację wykonaną w Streamlit</span>*
 
 <a href="https://panjozai.streamlit.app/" target="_blank" rel="noopener noreferrer">
     <img src="foto/foto1.png" alt="nauka słówek">

@@ -2,7 +2,7 @@
 Aplikacja typu czat z opcją nadania osobowości dla wybranego modelu, umożliwiająca śledzenie tokenów i kosztów bezpośrednio w aplikacji. Prompty i metryki zapisywane są również na platformie Langfuse.
  
 
-*<span style="color: navy; font-weight: bold;">Klinięcie obrazu otworzy aplikację wykonaną w Streamlit</span>*
+*<span style="color: navy; font-weight: bold;">Kliknięcie obrazu otworzy aplikację wykonaną w Streamlit</span>*
 (Wersja demo posiada ograniczenie tokenów dla odpowiedzi)
 <a href="https://naszgptzlangfuse.streamlit.app/" target="_blank" rel="noopener noreferrer">
     <img src="foto/foto1.png" alt="Wyszukiwanie znajomych">
