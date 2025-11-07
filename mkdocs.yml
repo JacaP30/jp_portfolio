@@ -4,6 +4,9 @@ site_author: Jacek Przybylak
 site_description: >-
     Portfolio moich wspaniałych projektów z Data Science i AI!
 
+repo_name: JacaP30/jp_portfolio
+repo_url: https://github.com/JacaP30/jp_portfolio
+
 theme:
   logo: logo.png
   name: material
