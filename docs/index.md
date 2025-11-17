@@ -46,5 +46,5 @@ MCP | GitHub | Langfuse
 Kliknij    
 📧 Email: <a href="mailto:jacap30@gmail.com?subject=Kontakt%20z%20portfolio&body=Witaj%20Jacek!" data-tooltip="Kliknij, aby otworzyć klienta pocztowego i wysłać wiadomość">jacap30@gmail.com</a>    
 <span data-tooltip="+48 512 996 317">📱 Tel <--</span>    
-<a href="https://github.com/JacaP30?tab=repositories" data-tooltip="Zobacz moje repozytoria na GitHub">📂 GitHub <s--</a>   
-💼 LinkedIn: <a href="#" data-tooltip="Link do profilu LinkedIn (wkrótce)">(tu dodać link)</a>     
+<a href="https://github.com/JacaP30?tab=repositories" data-tooltip="Zobacz moje repozytoria na GitHub">📂 GitHub --&gt;</a>   
+<a href="https://www.linkedin.com/in/jacek-przybylak-5883132a7/" data-tooltip="Odwiedź mnie na LinkedIn">💼 41LinkedIn --&gt;</a>     
