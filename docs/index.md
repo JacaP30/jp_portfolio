@@ -3,7 +3,7 @@
 
 ### Data Scientist | AI Developer | ML Engineer 
 
-Moja przygoda z programowaniem rozpoczęła się od Arduino i mikrokontrolerów, co stanowiło moje hobby. W pracy miałem okazję pracować z analizą danych przy użyciu Excela. Dynamiczny rozwój sztucznej inteligencji i jej dostępność w wielu narzędziach otworzyły przede mną nowe możliwości, które postanowiłem wykorzystać. Na początku tego roku zapisałem się na kurs "Od zera do AI", co zapoczątkowało moją poważniejszą przygodę z Data Science i AI. Po kilku miesiącach nauki dołączyłem do grupy Masterclass, gdzie intensywnie podnoszę swoje kwalifikacje i zdobywam praktyczne doświadczenie w obszarze analizy danych i sztucznej inteligencji.      
+Moja przygoda z programowaniem rozpoczęła się od Arduino i mikrokontrolerów, co stanowiło moje hobby. W pracy miałem styczność z analizą danych przy użyciu Excela. Dynamiczny rozwój sztucznej inteligencji i jej dostępność w wielu narzędziach otworzyły przede mną nowe możliwości, które postanowiłem wykorzystać. Na początku roku 2025 zapisałem się na kurs "Od zera do AI", co zapoczątkowało moją poważniejszą przygodę z Data Science i AI. Po kilku miesiącach nauki dołączyłem do grupy Masterclass, gdzie intensywnie podnoszę swoje kwalifikacje i zdobywam praktyczne doświadczenie w obszarze analizy danych i sztucznej inteligencji.      
 Hobbystyczne pisanie użytecznych aplikacji to zajęcie, które łączy w sobie pasję do programowania z chęcią tworzenia narzędzi, które realnie ułatwiają życie. Praca nad takimi projektami stanowi dla mnie nie tylko formę relaksu i samorealizacji, ale również sposób na rozwijanie swoich umiejętności.
 Wspomniane aplikacje często powstają w odpowiedzi na konkretne potrzeby, zauważone w codziennym życiu.
 
