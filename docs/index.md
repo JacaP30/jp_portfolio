@@ -71,7 +71,7 @@ Mechanik Automatyki Przemysłowej i Urządzeń Precyzyjnych
 
 ### Certyfikaty
 
-Kurs Data Science (w trakcie)
+Kurs Data Science z elementami programowania od GOTOIT
 
 </div>
 

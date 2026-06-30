@@ -4,9 +4,7 @@
 Audio Notatki to lekka aplikacja webowa opierająca swoje działanie na modelu AI Whisper i bazie wektorowej Qdrant.
 </p>
 
-<div class="portfolio-cta" markdown="1">
-<a href="https://notatkiaudiojp.streamlit.app/" class="md-button md-button--primary" target="_blank" rel="noopener noreferrer">Otwórz demo</a>
-</div>
+
 
 ## Zrzuty ekranu
 

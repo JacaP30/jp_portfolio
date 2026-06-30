@@ -4,9 +4,7 @@
 Aplikacja używa modelu klastrowania do znalezienia „bratniej duszy" wśród uczestników kursu.
 </p>
 
-<div class="portfolio-cta" markdown="1">
-<a href="https://zaddomwdrozeniejp.streamlit.app/" class="md-button md-button--primary" target="_blank" rel="noopener noreferrer">Otwórz demo</a>
-</div>
+
 
 ## Zrzuty ekranu
 

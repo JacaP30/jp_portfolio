@@ -4,9 +4,7 @@
 Aplikacja typu czat z opcją nadania osobowości dla wybranego modelu, umożliwiająca śledzenie tokenów i kosztów bezpośrednio w aplikacji. Prompty i metryki zapisywane są również na platformie Langfuse.
 </p>
 
-<div class="portfolio-cta" markdown="1">
-<a href="https://naszgptzlangfuse.streamlit.app/" class="md-button md-button--primary" target="_blank" rel="noopener noreferrer">Otwórz demo</a>
-</div>
+
 
 ## Zrzuty ekranu
 

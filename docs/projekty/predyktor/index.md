@@ -5,14 +5,13 @@ Aplikacja opiera swoje działanie na modelu regresyjnym do przewidywania prawdop
 </p>
 
 <div class="portfolio-cta" markdown="1">
-<a href="https://predyktor-czasu-pulmaratonu.streamlit.app/" class="md-button md-button--primary" target="_blank" rel="noopener noreferrer">Demo — Streamlit</a>
-<a href="https://predyktor.netlify.app/" class="md-button" target="_blank" rel="noopener noreferrer">Demo — React</a>
+
 <a href="trenowanie_modelu.ipynb" class="md-button" data-tooltip="Pobierz notebook z trenowaniem modelu">Notebook</a>
 </div>
 
 ## Zrzuty ekranu
 
-<p class="portfolio-hint">Kliknięcie obrazu otworzy aplikację.</p>
+<p class="portfolio-hint">Kliknięcie obrazu otworzy aplikację odpowiednio w Streamlit lub React.</p>
 
 <div class="portfolio-gallery" markdown="1">
 <a href="https://predyktor-czasu-pulmaratonu.streamlit.app/" target="_blank" rel="noopener noreferrer">![Panel predykcji czasu półmaratonu — wersja Streamlit](foto/foto1.png)</a>

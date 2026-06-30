@@ -4,9 +4,6 @@
 Aplikacja wspiera naukę języków obcych. Do działania wykorzystuje nowoczesny stack technologiczny z naciskiem na integrację z OpenAI API, zapewniając zaawansowane funkcje edukacyjne przy zachowaniu prostoty interfejsu użytkownika.
 </p>
 
-<div class="portfolio-cta" markdown="1">
-<a href="https://panjozai.streamlit.app/" class="md-button md-button--primary" target="_blank" rel="noopener noreferrer">Otwórz demo</a>
-</div>
 
 ## Zrzuty ekranu
 

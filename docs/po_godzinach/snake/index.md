@@ -4,9 +4,7 @@
 Aplikacja napisana dla zabawy — syn przypomniał sobie, że grał w „jakiegoś węża", kiedy był mały. Tak powstała nowa odsłona znanej gry Snake. Dzięki dużej liczbie ustawień zagra maluch jak i mistrz szybkości.
 </p>
 
-<div class="portfolio-cta" markdown="1">
-<a href="https://snakeonbreak.netlify.app/" class="md-button md-button--primary" target="_blank" rel="noopener noreferrer">Otwórz grę</a>
-</div>
+
 
 ## Zrzuty ekranu
 
