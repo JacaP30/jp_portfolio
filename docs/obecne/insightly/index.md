@@ -1,11 +1,21 @@
-# **<span style="color: navy; font-weight: bold; text-shadow: 2px 2px 6px rgb(229, 210, 70)">Insightly - ML i AI</span>**
-Analizy danych sprzedażowych i estymacje zamówień z wykorzystaniem ML i AI
-Aplikacja w fazie projektu. Zdjęcia z pierwszej wersji nie produkcyjnej.
+# Insightly — ML i AI {: .portfolio-title }
 
+<p class="portfolio-lead">
+Analizy danych sprzedażowych i estymacje zamówień z wykorzystaniem ML i AI. Aplikacja w fazie projektu — poniżej zrzuty z pierwszej wersji nieprodukcyjnej.
+</p>
 
+## Zrzuty ekranu
 
-<img src="foto/foto1.png" alt=" zrzut">
+<div class="portfolio-gallery" markdown="1">
+![Panel analizy danych sprzedażowych](foto/foto1.png)
+![Widok estymacji zamówień](foto/foto2.png)
+</div>
 
-<img src="foto/foto2.png" alt=" zrzut">
+## Technologie
 
-
+<div class="portfolio-tech" markdown="1">
+<span class="portfolio-chip">Python</span>
+<span class="portfolio-chip">ML</span>
+<span class="portfolio-chip">AI</span>
+<span class="portfolio-chip">Analiza danych</span>
+</div>

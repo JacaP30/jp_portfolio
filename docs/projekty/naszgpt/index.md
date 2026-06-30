@@ -1,26 +1,40 @@
-# **<span style="color: navy; font-weight: bold; text-shadow: 2px 2px 6px rgb(229, 210, 70)">Twój czat GPT</span>**
+# Twój czat GPT {: .portfolio-title }
+
+<p class="portfolio-lead">
 Aplikacja typu czat z opcją nadania osobowości dla wybranego modelu, umożliwiająca śledzenie tokenów i kosztów bezpośrednio w aplikacji. Prompty i metryki zapisywane są również na platformie Langfuse.
- 
+</p>
 
-*<span style="color: navy; font-weight: bold;">Kliknięcie obrazu otworzy aplikację wykonaną w Streamlit</span>*
-(Wersja demo posiada ograniczenie tokenów dla odpowiedzi)
-<a href="https://naszgptzlangfuse.streamlit.app/" target="_blank" rel="noopener noreferrer">
-    <img src="foto/foto1.png" alt="Wyszukiwanie znajomych">
-</a>
+<div class="portfolio-cta" markdown="1">
+<a href="https://naszgptzlangfuse.streamlit.app/" class="md-button md-button--primary" target="_blank" rel="noopener noreferrer">Otwórz demo</a>
+</div>
 
-<a href="https://naszgptzlangfuse.streamlit.app/" target="_blank" rel="noopener noreferrer">
-    <img src="foto/foto2.png" alt="Wyszukiwanie znajomych">
-</a>
+## Zrzuty ekranu
 
-## ✨**Funkcje**   
-- Testowanie modeli Gpt5  
-- Nadanie osobowości dla wybranego modelu  
-- Śledzenie użycia tokenów w dialogu  
-- Podsumowanie tokenów w bocznym panelu  
-- Podsumowanie kosztu konwersji w USD i PLN według aktualnego kursu  
-- Historia konwersacji  
+<p class="portfolio-hint">Kliknięcie obrazu otworzy aplikację. Wersja demo posiada ograniczenie tokenów dla odpowiedzi.</p>
 
-## 💻 **Wykorzystane technologie i biblioteki**
+<div class="portfolio-gallery" markdown="1">
+<a href="https://naszgptzlangfuse.streamlit.app/" target="_blank" rel="noopener noreferrer">![Interfejs czatu z wyborem modelu GPT](foto/foto1.png)</a>
+<a href="https://naszgptzlangfuse.streamlit.app/" target="_blank" rel="noopener noreferrer">![Panel śledzenia tokenów i kosztów](foto/foto2.png)</a>
+</div>
 
-Python | Streamlit  | Openai | Langfuse | Github | PyPDF2 | Requests | Python-docx | Scikit-learn| os | Pathlib | JSON | Python-dotenv |
+## Funkcje
 
+- Testowanie modeli GPT-5
+- Nadanie osobowości dla wybranego modelu
+- Śledzenie użycia tokenów w dialogu
+- Podsumowanie tokenów w bocznym panelu
+- Podsumowanie kosztu konwersji w USD i PLN według aktualnego kursu
+- Historia konwersacji
+
+## Technologie
+
+<div class="portfolio-tech" markdown="1">
+<span class="portfolio-chip">Python</span>
+<span class="portfolio-chip">Streamlit</span>
+<span class="portfolio-chip">OpenAI</span>
+<span class="portfolio-chip">Langfuse</span>
+<span class="portfolio-chip">PyPDF2</span>
+<span class="portfolio-chip">python-docx</span>
+<span class="portfolio-chip">Scikit-learn</span>
+<span class="portfolio-chip">GitHub</span>
+</div>

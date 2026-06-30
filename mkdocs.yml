@@ -1,6 +1,7 @@
 # Portfolio Jacka Przybylaka
 site_name: Portfolio - Jacek Przybylak
 site_author: Jacek Przybylak
+site_url: https://jacap30.github.io/jp_portfolio/
 site_description: >-
     Portfolio moich projektów z Data Science i AI i nie tylko.
 
@@ -15,10 +16,25 @@ markdown_extensions:
 theme:
   logo: logo.png
   name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+    - search.suggest
   palette:
-    scheme: "default"
-    primary: blue
-    accent: "cyan"
+    - scheme: default
+      primary: indigo
+      accent: cyan
+      toggle:
+        icon: material/brightness-7
+        name: Tryb ciemny
+    - scheme: slate
+      primary: indigo
+      accent: cyan
+      toggle:
+        icon: material/brightness-4
+        name: Tryb jasny
 
 extra_css:
   - stylesheets/extra.css
@@ -26,18 +42,25 @@ extra_css:
 extra_javascript:
   - javascripts/tooltips.js
 
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/JacaP30
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/jacek-przybylak-5883132a7/
+
 nav:
 - Strona Domowa: index.md
 - Projekty z kursu:
-  - "Asystent językowy": projekty\asystent_jezykowy\index.md
-  - "Predyktor": projekty\predyktor\index.md
-  - "Twój czat GPT": projekty\naszgpt\index.md
-  - "Audio Notatki": projekty\notatki_audio\index.md
-  - "Klastrowanie": projekty\wyszukiwanie_znajomych\index.md
-  - "EDA Irysów": projekty\eda_irysow\index.md
+  - "Asystent językowy": projekty/asystent_jezykowy/index.md
+  - "Predyktor": projekty/predyktor/index.md
+  - "Twój czat GPT": projekty/naszgpt/index.md
+  - "Audio Notatki": projekty/notatki_audio/index.md
+  - "Klastrowanie": projekty/wyszukiwanie_znajomych/index.md
+  - "EDA Irysów": projekty/eda_irysow/index.md
 - Obecne projekty:
-  - "Career Guide": obecne\career_guide\index.md
-  - "Insightly": obecne\insightly\index.md
+  - "Career Guide": obecne/career_guide/index.md
+  - "Insightly": obecne/insightly/index.md
 - Po godzinach:
-  - "Snake": po_godzinach\snake\index.md
-  - "Wyświetlacz WiFi": po_godzinach\wyswietlacz\index.md
+  - "Snake": po_godzinach/snake/index.md
+  - "Wyświetlacz WiFi": po_godzinach/wyswietlacz/index.md

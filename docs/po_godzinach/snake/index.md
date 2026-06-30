@@ -1,33 +1,41 @@
-# **<span style="color: navy; font-weight: bold;text-shadow: 2px 2px 6px rgb(229, 210, 70)">Popularna gra komputerowa SNAKE</span>**
-Aplikacja napisana dla zabawy bo syn przypomniał sobie że grał w "jakiegoś węża" kiedy był mały.
-Tak powstała nowa odsłona znanej gry Snake. Dzięki dużej liczbie ustawień zagra maluch jak i mistrz szybkości. 
- 
+# Popularna gra komputerowa SNAKE {: .portfolio-title }
 
+<p class="portfolio-lead">
+Aplikacja napisana dla zabawy — syn przypomniał sobie, że grał w „jakiegoś węża", kiedy był mały. Tak powstała nowa odsłona znanej gry Snake. Dzięki dużej liczbie ustawień zagra maluch jak i mistrz szybkości.
+</p>
 
-*<span style="color: navy; font-weight: bold;">Kliknięcie obrazu otworzy aplikację</span>*
+<div class="portfolio-cta" markdown="1">
+<a href="https://snakeonbreak.netlify.app/" class="md-button md-button--primary" target="_blank" rel="noopener noreferrer">Otwórz grę</a>
+</div>
 
-<a href="https://snakeonbreak.netlify.app/" target="_blank" rel="noopener noreferrer">
-    <img src="foto/foto1.png" alt=" zrzut">
-</a>
+## Zrzuty ekranu
 
-<a href="https://snakeonbreak.netlify.app/" target="_blank" rel="noopener noreferrer">
-    <img src="foto/foto2.png" alt=" zrzut">
-</a>
+<p class="portfolio-hint">Kliknięcie obrazu otworzy aplikację.</p>
 
-<a href="https://snakeonbreak.netlify.app/" target="_blank" rel="noopener noreferrer">
-    <img src="foto/foto3.png" alt=" zrzut">
-</a>
+<div class="portfolio-gallery" markdown="1">
+<a href="https://snakeonbreak.netlify.app/" target="_blank" rel="noopener noreferrer">![Ekran startowy gry Snake](foto/foto1.png)</a>
+<a href="https://snakeonbreak.netlify.app/" target="_blank" rel="noopener noreferrer">![Panel ustawień gry](foto/foto2.png)</a>
+<a href="https://snakeonbreak.netlify.app/" target="_blank" rel="noopener noreferrer">![Rozgrywka z wężem złodziejem](foto/foto3.png)</a>
+</div>
 
-## ✨**Funkcjonalność**   
-✅ Rozgrywka w pojedynkę lub z przeszkadzającym wężem złodziejem    
-✅ Czas gry od 1 do 15 min    
-✅ Prędkość poruszania ustawiana od 1 do 20  z aut przyspieszeniem lub bez    
-✅  Czas życia kropki od 1 do 20 s     
-✅  Liczba kropek na ekranie jednocześnie od 1 do 10    
-✅  W trybie bez złodzieja możliwość wyłączenia pojawiania się,   
-   po drugiej stronie przechodząc przez ścianę.    
-✅  Globalny licznik zliczający uruchomienia
+## Funkcjonalność
 
-## 💻 **Wykorzystane technologie i biblioteki**
+- Rozgrywka w pojedynkę lub z przeszkadzającym wężem złodziejem
+- Czas gry od 1 do 15 min
+- Prędkość poruszania ustawiana od 1 do 20 z autoprzyspieszeniem lub bez
+- Czas życia kropki od 1 do 20 s
+- Liczba kropek na ekranie jednocześnie od 1 do 10
+- W trybie bez złodzieja możliwość wyłączenia pojawiania się po drugiej stronie przy przechodzeniu przez ścianę
+- Globalny licznik zliczający uruchomienia
 
-TypeScript | JavaScript  | HTML5 | CSS | Github | JSON | npm 
+## Technologie
+
+<div class="portfolio-tech" markdown="1">
+<span class="portfolio-chip">TypeScript</span>
+<span class="portfolio-chip">JavaScript</span>
+<span class="portfolio-chip">HTML5</span>
+<span class="portfolio-chip">CSS</span>
+<span class="portfolio-chip">npm</span>
+<span class="portfolio-chip">Netlify</span>
+<span class="portfolio-chip">GitHub</span>
+</div>

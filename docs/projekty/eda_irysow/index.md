@@ -1,16 +1,24 @@
+# Analiza Danych Irysów: Eksploracja Domenowa EDA {: .portfolio-title }
 
-# **<span style="color: navy; font-weight: bold; text-shadow: 2px 2px 6px rgb(229, 210, 70)">Analiza Danych Irysów: Eksploracja Domenowa EDA</span>**
+<p class="portfolio-lead">
+Zapraszam do zapoznania się z analizą danych irysów za pomocą eksploracji domenowej (EDA). W tym projekcie znajdziesz trafne wnioski i ciekawe obserwacje, które rzucają nowe światło na te piękne kwiaty.
+</p>
 
-Zapraszam do zapoznania się z analizą danych irysów za pomocą eksploracji domenowej (EDA). W tym projekcie znajdziesz mnóstwo trafnych wniosków i ciekawych obserwacji, które rzucają nowe światło na te piękne kwiaty. Przygotuj się na fascynującą podróż przez dane, która z pewnością wzbogaci Twoją wiedzę o nich.
+<div class="portfolio-cta" markdown="1">
+<a href="eda_irysy.ipynb" class="md-button md-button--primary" data-tooltip="Pobierz plik Jupyter Notebook z pełną analizą danych irysów">Pobierz notebook</a>
+</div>
 
-<a href="eda_irysy.ipynb" class="md-button md-button--primary" data-tooltip="Pobierz plik Jupyter Notebook z pełną analizą danych irysów">Notebook</a>
+## Notebook interaktywny
 
+<div class="portfolio-embed">
 <iframe
     id="content"
     src="eda_irysy.html"
+    title="Interaktywny notebook — analiza danych irysów"
     width="100%"
-    style="border:1px solid black;overflow:hidden;"
 ></iframe>
+</div>
+
 <script>
 function resizeIframeToFitContent(iframe) {
     iframe.style.height = (iframe.contentWindow.document.documentElement.scrollHeight + 50) + "px";
@@ -25,3 +33,14 @@ window.addEventListener('resize', function() {
     resizeIframeToFitContent(iframe);
 });
 </script>
+
+## Technologie
+
+<div class="portfolio-tech" markdown="1">
+<span class="portfolio-chip">Python</span>
+<span class="portfolio-chip">Jupyter Notebook</span>
+<span class="portfolio-chip">Pandas</span>
+<span class="portfolio-chip">Matplotlib</span>
+<span class="portfolio-chip">Seaborn</span>
+<span class="portfolio-chip">EDA</span>
+</div>

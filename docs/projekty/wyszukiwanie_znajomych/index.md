@@ -1,16 +1,33 @@
-# **<span style="color: navy; font-weight: bold; text-shadow: 2px 2px 6px rgb(229, 210, 70)">Znajdź znajomych wśród uczestników kursu z pomocą AI</span>**
-Aplikacja używa modelu klastrowania do znalezienia "bratniej duszy" wśród uczestników kursu.    
+# Znajdź znajomych wśród uczestników kursu z pomocą AI {: .portfolio-title }
 
+<p class="portfolio-lead">
+Aplikacja używa modelu klastrowania do znalezienia „bratniej duszy" wśród uczestników kursu.
+</p>
 
-*<span style="color: navy; font-weight: bold;">Kliknięcie obrazu otworzy aplikację</span>*
+<div class="portfolio-cta" markdown="1">
+<a href="https://zaddomwdrozeniejp.streamlit.app/" class="md-button md-button--primary" target="_blank" rel="noopener noreferrer">Otwórz demo</a>
+</div>
 
-<a href="https://zaddomwdrozeniejp.streamlit.app/" target="_blank" rel="noopener noreferrer">
-    <img src="foto/foto1.png" alt=" zrzut">
-</a>
+## Zrzuty ekranu
 
-## ✨ **Funkcjonalność**    
-Wybierając przedział wiekowy, wykształcenie, ulubione zwierzęta i miejsca oraz płeć, model klastrowania wytrenowany na danych z ankiety, przypisze Cię do grupy podobnych osób i zostanie wyświetlony krótki opis. 
+<p class="portfolio-hint">Kliknięcie obrazu otworzy aplikację.</p>
 
-## 💻 **Wykorzystane technologie i biblioteki**
+<div class="portfolio-gallery portfolio-gallery--single" markdown="1">
+<a href="https://zaddomwdrozeniejp.streamlit.app/" target="_blank" rel="noopener noreferrer">![Formularz dopasowania uczestników kursu](foto/foto1.png)</a>
+</div>
 
-Python | Streamlit | Github | pandas | pycaret | plotly | Clustering Model | JSON | CSV
+## Funkcjonalność
+
+Wybierając przedział wiekowy, wykształcenie, ulubione zwierzęta i miejsca oraz płeć, model klastrowania wytrenowany na danych z ankiety przypisze Cię do grupy podobnych osób i wyświetli krótki opis.
+
+## Technologie
+
+<div class="portfolio-tech" markdown="1">
+<span class="portfolio-chip">Python</span>
+<span class="portfolio-chip">Streamlit</span>
+<span class="portfolio-chip">PyCaret</span>
+<span class="portfolio-chip">Pandas</span>
+<span class="portfolio-chip">Plotly</span>
+<span class="portfolio-chip">Clustering</span>
+<span class="portfolio-chip">GitHub</span>
+</div>

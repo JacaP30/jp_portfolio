@@ -1,50 +1,172 @@
-# **<span style="color: navy; font-weight: bold; text-shadow: 2px 2px 6px rgb(229, 210, 70);">Witaj w moim portfolio</span>** <img src="foto.jpg" alt="foto" style="width: 250px; float: right; margin: 0 0 1.2rem 1.5rem;" />
+<div class="portfolio-hero" markdown="1">
 
+<div class="portfolio-hero__content" markdown="1">
 
-### Data Scientist | AI Developer | ML Engineer 
+# Witaj w moim portfolio
 
-Moja przygoda z programowaniem rozpoczęła się od Arduino i mikrokontrolerów, co stanowiło moje hobby. W pracy miałem styczność z analizą danych przy użyciu Excela. Dynamiczny rozwój sztucznej inteligencji i jej dostępność w wielu narzędziach otworzyły przede mną nowe możliwości, które postanowiłem wykorzystać. Na początku roku 2025 zapisałem się na kurs "Od zera do AI", co zapoczątkowało moją poważniejszą przygodę z Data Science i AI. Po kilku miesiącach nauki dołączyłem do grupy Masterclass, gdzie intensywnie podnoszę swoje kwalifikacje i zdobywam praktyczne doświadczenie w obszarze analizy danych i sztucznej inteligencji.      
-Hobbystyczne pisanie użytecznych aplikacji to zajęcie, które łączy w sobie pasję do programowania z chęcią tworzenia narzędzi, które realnie ułatwiają życie. Praca nad takimi projektami stanowi dla mnie nie tylko formę relaksu i samorealizacji, ale również sposób na rozwijanie swoich umiejętności.
-Wspomniane aplikacje często powstają w odpowiedzi na konkretne potrzeby, zauważone w codziennym życiu.
+<p class="portfolio-hero__tagline">Data Scientist &nbsp;|&nbsp; AI Developer &nbsp;|&nbsp; ML Engineer</p>
 
-### W panelu bocznym znajdziesz    
-**Projekty z kursu** - projekty zaliczeniowe, dodatkowo rozbudowane i dopracowane wizualnie     
-**Obecne projekty** - wspólne projekty tworzone w grupie Masterclass       
-**Po godzinach** - przykłady projektów które tworzę z pasji.
+<p class="portfolio-hero__lead">
+Buduję aplikacje oparte na danych i sztucznej inteligencji — od modeli ML po interaktywne narzędzia w Streamlit i React. Łączę wieloletnie doświadczenie biznesowe z intensywną nauką Data Science i praktyką w grupie Masterclass.
+</p>
 
-## **O Mnie**
-🎓 Wykształcenie   
-Mechanik Automatyki Przemysłowej i Urządzeń Precyzyjnych    
-📜 Certyfikaty    
-Kurs Data Science (w trakcie)    
-💼 Doświadczenie    
-- ok. 15 lat doświadczenia w handlu głównie w branży AGD    
-- ok. 15 lat doświadczenia w serwisie AGD, w tym 4 lata kierowania serwisem fabrycznym dużej marki   
-- 7 miesięcy intensywnej nauki na kursie Data Science/AI    
-- członkostwo w elitarnej grupie Masterclass - rozszerzenie kursu    
+<div class="portfolio-cta" markdown="1">
+<a href="projekty/predyktor/" class="md-button md-button--primary">Zobacz projekty</a>
+<a href="#kontakt" class="md-button">Kontakt</a>
+</div>
 
-## **Umiejętności Techniczne**
-🐍 Języki programowania
-Python 
+</div>
 
-### ⚛️ Frameworki i biblioteki
-Streamlit | React (w trakcie) | Pandas | NumPy | Plotly   
+<img src="foto.jpg" alt="Zdjęcie profilowe Jacka Przybylaka" class="portfolio-hero__photo" />
 
-### 🤖 AI/ML
-OpenAI | Ollama | PyCaret | Scikit-learn
+</div>
 
-### 🗄️ Bazy danych
-PostgreSQL | Supabase | Qdrant
+## W panelu bocznym znajdziesz
 
-### ☁️ Cloud & DevOps
-AWS S3 | Digital Ocean | Supabase | Redis | Netlify
+- **Projekty z kursu** — projekty zaliczeniowe, rozbudowane i dopracowane wizualnie
+- **Obecne projekty** — wspólne projekty tworzone w grupie Masterclass
+- **Po godzinach** — projekty tworzone z pasji
 
-### 🔧 Inne narzędzia
-MCP | GitHub | Langfuse
+## O mnie
 
-## **Kontakt**
-Kliknij    
-📧 Email: <a href="mailto:jacap30@gmail.com?subject=Kontakt%20z%20portfolio&body=Witaj%20Jacek!" data-tooltip="Kliknij, aby otworzyć klienta pocztowego i wysłać wiadomość">jacap30@gmail.com</a>    
-<span data-tooltip="+48 512 996 317">📱 Tel <--</span>    
-<a href="https://github.com/JacaP30?tab=repositories" data-tooltip="Zobacz moje repozytoria na GitHub">📂 GitHub --&gt;</a>   
-<a href="https://www.linkedin.com/in/jacek-przybylak-5883132a7/" data-tooltip="Odwiedź mnie na LinkedIn">💼 41LinkedIn --&gt;</a>     
+<div class="portfolio-cards" markdown="1">
+
+<div class="portfolio-card" markdown="1">
+
+### Ścieżka zawodowa
+
+Ponad 15 lat doświadczenia w handlu i serwisie AGD, w tym 4 lata kierowania serwisem fabrycznym dużej marki. W pracy miałem styczność z analizą danych przy użyciu Excela.
+
+</div>
+
+<div class="portfolio-card" markdown="1">
+
+### Data Science & AI
+
+Na początku 2025 roku zapisałem się na kurs „Od zera do AI", co zapoczątkowało moją poważniejszą przygodę z Data Science. Programowanie zaczęło się od Arduino i mikrokontrolerów jako hobby.
+
+</div>
+
+<div class="portfolio-card" markdown="1">
+
+### Masterclass
+
+Po kilku miesiącach nauki dołączyłem do elitarnej grupy Masterclass, gdzie intensywnie podnoszę kwalifikacje i zdobywam praktyczne doświadczenie w analizie danych i sztucznej inteligencji.
+
+</div>
+
+</div>
+
+<div class="portfolio-cards" markdown="1">
+
+<div class="portfolio-card" markdown="1">
+
+### Wykształcenie
+
+Mechanik Automatyki Przemysłowej i Urządzeń Precyzyjnych
+
+</div>
+
+<div class="portfolio-card" markdown="1">
+
+### Certyfikaty
+
+Kurs Data Science (w trakcie)
+
+</div>
+
+<div class="portfolio-card" markdown="1">
+
+### Po godzinach
+
+Tworzę użyteczne aplikacje odpowiadające na konkretne potrzeby z codziennego życia — to dla mnie forma relaksu i rozwijania umiejętności programistycznych.
+
+</div>
+
+</div>
+
+## Umiejętności techniczne
+
+<div class="portfolio-skills-group" markdown="1">
+
+### Języki programowania
+
+<div class="portfolio-tech" markdown="1">
+<span class="portfolio-chip">Python</span>
+</div>
+
+</div>
+
+<div class="portfolio-skills-group" markdown="1">
+
+### Frameworki i biblioteki
+
+<div class="portfolio-tech" markdown="1">
+<span class="portfolio-chip">Streamlit</span>
+<span class="portfolio-chip">React (w trakcie)</span>
+<span class="portfolio-chip">Pandas</span>
+<span class="portfolio-chip">NumPy</span>
+<span class="portfolio-chip">Plotly</span>
+</div>
+
+</div>
+
+<div class="portfolio-skills-group" markdown="1">
+
+### AI / ML
+
+<div class="portfolio-tech" markdown="1">
+<span class="portfolio-chip">OpenAI</span>
+<span class="portfolio-chip">Ollama</span>
+<span class="portfolio-chip">PyCaret</span>
+<span class="portfolio-chip">Scikit-learn</span>
+</div>
+
+</div>
+
+<div class="portfolio-skills-group" markdown="1">
+
+### Bazy danych
+
+<div class="portfolio-tech" markdown="1">
+<span class="portfolio-chip">PostgreSQL</span>
+<span class="portfolio-chip">Supabase</span>
+<span class="portfolio-chip">Qdrant</span>
+</div>
+
+</div>
+
+<div class="portfolio-skills-group" markdown="1">
+
+### Cloud & DevOps
+
+<div class="portfolio-tech" markdown="1">
+<span class="portfolio-chip">AWS S3</span>
+<span class="portfolio-chip">Digital Ocean</span>
+<span class="portfolio-chip">Supabase</span>
+<span class="portfolio-chip">Redis</span>
+<span class="portfolio-chip">Netlify</span>
+</div>
+
+</div>
+
+<div class="portfolio-skills-group" markdown="1">
+
+### Inne narzędzia
+
+<div class="portfolio-tech" markdown="1">
+<span class="portfolio-chip">MCP</span>
+<span class="portfolio-chip">GitHub</span>
+<span class="portfolio-chip">Langfuse</span>
+</div>
+
+</div>
+
+## Kontakt {#kontakt}
+
+<div class="portfolio-contact" markdown="1">
+<a href="mailto:jacap30@gmail.com?subject=Kontakt%20z%20portfolio&body=Witaj%20Jacek!" data-tooltip="Otwórz klienta pocztowego">📧 jacap30@gmail.com</a>
+<span data-tooltip="Numer telefonu">📱 +48 512 996 317</span>
+<a href="https://github.com/JacaP30?tab=repositories" data-tooltip="Repozytoria na GitHub">📂 GitHub</a>
+<a href="https://www.linkedin.com/in/jacek-przybylak-5883132a7/" data-tooltip="Profil LinkedIn">💼 LinkedIn</a>
+</div>
